@@ -103,7 +103,7 @@ Type your question when prompted. The system will output an exact sentence from 
 
 ---
 
-## 🧠 How It Works (Plain English)
+## 🧠 How It Works 
 
 **Indexing phase:**
 
