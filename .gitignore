@@ -1,0 +1,24 @@
+# Virtual environments
+.venv/
+rag_env/
+venv/
+env/
+
+# ChromaDB persistence
+chroma_db/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Local PDF (keep sample but not large manual)
+software_manual.pdf
+
+# IDE folders
+.vscode/
+.idea/
+
+# OS junk
+.DS_Store
+Thumbs.db
